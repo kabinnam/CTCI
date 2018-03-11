@@ -4,5 +4,9 @@
 #
 # Hints: #44, #117, #132
 
+# Input: s, string
+# Output: True (if all unique characters), False (otherwise)
 
+def isUnique(s):
+    return len(s) == len(set(s))
 

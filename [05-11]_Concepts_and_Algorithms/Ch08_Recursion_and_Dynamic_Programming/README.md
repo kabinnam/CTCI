@@ -1,2 +1,2 @@
-# Chapter 5: Bit Manipulation
+# Chapter 8: Recursion and Dynamic Programming
 

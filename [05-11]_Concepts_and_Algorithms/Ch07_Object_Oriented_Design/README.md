@@ -1,2 +1,2 @@
-# Chapter 5: Bit Manipulation
+# Chapter 7: Object-Oriented Design
 

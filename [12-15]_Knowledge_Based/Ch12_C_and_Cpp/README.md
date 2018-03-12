@@ -1,2 +1,2 @@
-# Chapter 5: Bit Manipulation
+# Chapter 12: C and C++
 

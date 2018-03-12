@@ -1,2 +1,2 @@
-# Chapter 5: Bit Manipulation
+# Chapter 6: Math and Logic Puzzles
 

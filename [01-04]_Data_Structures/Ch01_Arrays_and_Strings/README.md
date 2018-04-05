@@ -1,4 +1,5 @@
 # Chapter 1: Arrays and Strings
+## Python:
 * [Problem 1: Is Unique](./Python/01/1.ipynb)
 * [Problem 2: Check Permutaiton](./Python/02/2.ipynb)
 * [Problem 3: URLify](./Python/03/3.ipynb)

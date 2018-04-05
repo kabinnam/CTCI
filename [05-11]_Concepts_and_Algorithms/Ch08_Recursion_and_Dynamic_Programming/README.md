@@ -1,2 +1,16 @@
 # Chapter 8: Recursion and Dynamic Programming
-
+## Python:
+* [Problem 1: Triple Step](./Python/01/1.ipynb)
+* [Problem 2: Robot in a Grid](./Python/02/2.ipynb)
+* [Problem 3: Magic Index](./Python/03/3.ipynb)
+* [Problem 4: Power Set](./Python/04/4.ipynb)
+* [Problem 5: Recursive Multiply](./Python/05/5.ipynb)
+* [Problem 6: Towers of Hanoi](./Python/06/6.ipynb)
+* [Problem 7: Permutations without Dups](./Python/07/7.ipynb)
+* [Problem 8: Permutations with Dups](./Python/08/8.ipynb)
+* [Problem 9: Parens](./Python/09/9.ipynb)
+* [Problem 10: Paint Fill](./Python/10/10.ipynb)
+* [Problem 11: Coins](./Python/11/11.ipynb)
+* [Problem 12: Eight Queens](./Python/12/12.ipynb)
+* [Problem 13: Stack of Boxes](./Python/13/13.ipynb)
+* [Problem 14: Boolean Evaluation](./Python/14/14.ipynb)
